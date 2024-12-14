@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DhaneshRajpurkar
-- 👀 I’m interested in ... robotics
+- 👋 Hi, I’m Dhanesh
+- 👀 I’m interested in ... Robotics
 - 🌱 I’m currently learning ... java and python
 - 💞️ I’m looking to collaborate on ... interesting projects
 - 📫 How to reach me ... i have an email
